@@ -1,0 +1,9 @@
+Our chemical microparticle image database (CMD) has been uploaded to "Baidu Netdisk".
+
+1) Original data
+
+CMD-1500   Link: https://pan.baidu.com/s/1qaxVCW60JbVB_QyOm39Skg   Extracted code: CMD1
+
+2) Augmented data
+
+CMD-2500   Link: https://pan.baidu.com/s/16jey8-VuJygL4444MEUXjA        Extracted code: CMD2
