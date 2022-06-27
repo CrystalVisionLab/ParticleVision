@@ -32,7 +32,7 @@ python setup.py develop
 Download pretrained model from: 
 
 - 百度云：https://pan.baidu.com/s/18dWehstHxixFbIP93sNesg, 提取码: bb6r ；
-- Google Driver: 
+- Google Driver: TBD
 
 Copy pretrained model to mmdetection/work_dirs/mask_rcnn_r50_caffe_fpn_mstrain-poly_1xSF.
 
